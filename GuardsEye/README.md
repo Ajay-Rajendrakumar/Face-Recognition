@@ -7,7 +7,7 @@
 | Category 	| Software 	|
 | Domain Bucket 	| Security & Surveillance 	|
 
-## Project Contents - prototype dt. Jan 06 2020
+## Project Contents - prototype
 
 ### Video Based Dynamic Face recognition
 ```bash
